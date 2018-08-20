@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SGCategory_Tests' do
+  pod 'SGCategory', :path => '../'
+  
+  
+end
