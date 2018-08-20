@@ -1,0 +1,16 @@
+PODS:
+  - SGCategory (0.1.0)
+
+DEPENDENCIES:
+  - SGCategory (from `../`)
+
+EXTERNAL SOURCES:
+  SGCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SGCategory: 6b99dcfa44b34a51f7d3402bc905da3af8441d3d
+
+PODFILE CHECKSUM: 9dc4e311d181efdca30b379cc848a25e5a05b22a
+
+COCOAPODS: 1.4.0

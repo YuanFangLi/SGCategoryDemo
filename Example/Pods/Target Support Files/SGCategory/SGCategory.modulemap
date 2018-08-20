@@ -1,0 +1,6 @@
+framework module SGCategory {
+  umbrella header "SGCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
